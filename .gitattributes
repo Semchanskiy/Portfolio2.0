@@ -1,4 +1,2 @@
-*.txt text
-*.html text
-*.css text
-*.js text
+# Auto detect text files and perform LF normalization
+* text=auto
