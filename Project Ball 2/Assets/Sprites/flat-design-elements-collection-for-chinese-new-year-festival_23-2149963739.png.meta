@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 40f84862607deb5478b4df91f2b84de5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 601
+        width: 156
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cd1871ed20d404ab48e7255fe18f81
+      internalID: 355382505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 624
+        width: 132
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72012cff797d066428bddb451d7121a9
+      internalID: 119093687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 580
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4c1939706528e4b9130b46b24496bb
+      internalID: -406347104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 804
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe05e4365cd574fb016f0d4f755991
+      internalID: 551413112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 557
+        width: 172
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e953003c8ed9047bd19bd58da9ebe8
+      internalID: -160828377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 227
+        width: 326
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0ab1d3a81a1d46959182a3cb227c8
+      internalID: -1836685497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 285
+        width: 150
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f22aca77d1be5548bdbe6eab721e825
+      internalID: -984798266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 280
+        width: 110
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a9d1c0db2bfb4681f31e2bfe70326
+      internalID: -2083354374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 192
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468788b8721408f4092e4f0e73909aa5
+      internalID: -232482172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 65
+        width: 150
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c777a0574c1c9ad4a893f9d51934ebe5
+      internalID: 493746688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 78
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670284b4ec439f5459f7f4d6e1ac1183
+      internalID: -321592512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ea37e95975ad2341a9dcb9e08c60dec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_0: 551413112
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_1: 1297608347
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_10: -160828377
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_11: -1430901403
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_12: -502611738
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_13: -1836685497
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_14: 529364589
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_15: -984798266
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_16: -2083354374
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_17: 1673930476
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_18: -232482172
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_19: -190891622
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_2: 355382505
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_20: 562459168
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_21: 493746688
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_22: -321592512
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_23: -1238548446
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_24: -1584145017
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_25: 2076458560
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_26: -1372141101
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_27: 69321512
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_3: -1440525537
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_4: -1276865419
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_5: 119093687
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_6: -406347104
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_7: 1311422209
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_8: -1106770830
+      flat-design-elements-collection-for-chinese-new-year-festival_23-2149963739_9: 1587462091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
