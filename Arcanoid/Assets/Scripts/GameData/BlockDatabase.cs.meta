@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 96993691743787b4987e10c9935699d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Standart1x1: {instanceID: 0}
+  - Standart1x2: {instanceID: 0}
+  - Standart1x3: {instanceID: 0}
+  - Standart2x2: {instanceID: 0}
+  - Stone1x1: {instanceID: 0}
+  - Stone1x2: {instanceID: 0}
+  - Stone1x3: {instanceID: 0}
+  - Stone2x2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
